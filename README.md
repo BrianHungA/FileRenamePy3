@@ -1,4 +1,4 @@
-# file_renamed_py3 API
+# FileRenamePy3
 ## This API is a tiny tool to help rename a large amount of files with python 3.
 - Here's several steps as a tutorial:
   1. Download the package including API, demo_code, and test data and put them in the same file path.
